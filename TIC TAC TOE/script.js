@@ -1,4 +1,4 @@
-console.log("ha yahi hu")
+
 
 let audi=new Audio('game.mp3')
 let gameover=false
