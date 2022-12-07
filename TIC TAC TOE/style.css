@@ -123,7 +123,11 @@ height: 60px;
     background-image: linear-gradient(to right,cadetblue,white);
     display: flex; 
     justify-content: space-evenly;
-    align-items: center;
+    align-items: center; 
+      position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 }
 footer ul{ 
     display: flex; 
